@@ -1,0 +1,15 @@
+CODE STATUS HTTPS:
+
+- HTTP 200 - OK
+- HTTP 301 - redirecionamento permanente
+- HTTP 302 - redirecionamento temporário
+- HTTP 404 - não encontrado
+- HTTP 410 - sumiu
+- HTTP 500 - Erro interno do servidor
+
+----------------------
+
+CRUD - Create, read, update, delete
+
+----------------------
+

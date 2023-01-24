@@ -1,0 +1,5 @@
+Imagine que você quer comer um bolo. O bolo é como um recurso, e a cozinha é como um servidor. Para comer o bolo, você precisa pedir 
+para a cozinheira (que representa a API) para te dar uma fatia. A cozinheira dará a você a fatia de bolo (que é como uma resposta) 
+e você poderá comer. Assim como o bolo, existem muitos outros recursos que as pessoas querem obter do servidor, como informações de um jogo ou de um filme. 
+A arquitetura REST permite que essas informações sejam acessadas de maneira organizada e padronizada, usando os 
+protocolos HTTP como GET, POST, PUT e DELETE.

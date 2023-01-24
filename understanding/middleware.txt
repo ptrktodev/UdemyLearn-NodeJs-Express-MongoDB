@@ -1,0 +1,12 @@
+o middleware ajuda a direcionar as informações que você envia para o computador para os programas certos, 
+para que eles possam lidar com elas. Ele é como um controlador de tráfego para o computador, garantindo 
+que as informações cheguem ao lugar certo.
+
+-Autenticação e autorização: Verificar se um usuário está autenticado e tem permissão para acessar certas áreas 
+do aplicativo é fundamental para garantir a segurança do sistema.
+
+-Manipulação de dados: O tratamento adequado dos dados é crucial para garantir que eles sejam armazenados e 
+recuperados corretamente e para garantir a integridade dos dados.
+
+-Tratamento de erros: Lidar com erros de maneira adequada é importante para garantir que o usuário tenha uma 
+experiência satisfatória e para garantir a disponibilidade do sistema.

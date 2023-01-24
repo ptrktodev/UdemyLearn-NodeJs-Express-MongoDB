@@ -1,0 +1,38 @@
+GET é usado para recuperar informações do servidor. Ele é geralmente usado para 
+recuperar dados de uma página web ou para obter informações de um banco de dados. 
+Requisições GET são geralmente seguras e não afetam os dados no servidor.
+GET é usado para recuperar informações do servidor. Ele não envia dados para o servidor, 
+apenas solicita informações. Isso é geralmente usado para carregar uma página da web ou 
+para obter informações de um banco de dados. As informações são enviadas no caminho da URL.
+
+POST é usado para enviar informações para o servidor. Ele é geralmente usado 
+para enviar dados de formulários ou para salvar informações em um banco de dados. 
+Requisições POST geralmente têm efeitos colaterais e podem afetar os dados no servidor.
+O POST é usado para enviar dados para o servidor. Ele é geralmente usado para enviar dados 
+de formulários para serem processados ​​ou salvos no banco de dados. Os dados são enviados no 
+corpo da requisição.
+
+É importante lembrar que requisições GET devem ser usadas apenas para operações seguras e que não 
+modifiquem dados, enquanto as requisições POST devem ser usadas para operações que modifiquem dados.
+
+
+-- ///////// --
+
+GET é como pegar uma livro na biblioteca. Você está solicitando informações já existentes (o livro) e não 
+está fazendo nenhuma alteração (como escrever nas páginas).
+
+Já o POST é como escrever um novo livro na biblioteca. Você está enviando novas informações (o novo livro)
+e essas informações estão sendo adicionadas aos registros existentes (na prateleira da biblioteca).
+
+-------------
+
+MongoDB é como uma grande caixa de armazenamento onde você pode guardar muitas coisas diferentes, como brinquedos, 
+desenhos, fotos e até mesmo histórias. Imagine que você tem um monte de caixas de armazenamento diferentes em sua casa, 
+cada uma com coisas diferentes dentro delas.
+Com MongoDB, você pode guardar essas caixas de armazenamento em um único lugar e encontrar facilmente o que você está 
+procurando, usando etiquetas especiais chamadas de "chaves". Além disso, MongoDB permite que você adicione, remova ou 
+altere as coisas dentro das caixas de armazenamento de maneira fácil e rápida.
+
+-------------
+
+

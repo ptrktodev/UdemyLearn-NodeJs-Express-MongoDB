@@ -1,0 +1,73 @@
+DUVIDAS ::::::::::::::::::::::::::::::::::::::::::::
+
+fs = No Node.js, o módulo fs (File System) é usado para lidar com operações de arquivo, 
+como ler, escrever, renomear, excluir e muito mais. Ele oferece uma série de funções 
+para manipular arquivos e pastas de forma síncrona e assíncrona.
+-------------------------------------------------------------------------------------
+http = No Node.js, o módulo http é usado para criar e gerenciar servidores HTTP. Ele oferece uma 
+série de funções para trabalhar com requisições e respostas HTTP, como criar servidores, manipular
+cabeçalhos, lidar com rotas, enviar respostas e muito mais. 
+-------------------------------------------------------------------------------------
+path = No Node.js, o módulo path é usado para trabalhar com caminhos de arquivo e pasta. Ele oferece 
+uma série de funções que permitem manipular caminhos de forma fácil e consistente, independentemente 
+do sistema operacional.
+-------------------------------------------------------------------------------------
+url = usado para analisar e manipular URLs. Ele fornece funções para extrair informações de uma URL, 
+como o protocolo, o host, o caminho, os parâmetros de consulta, entre outros. Também fornece uma 
+função para transformar um objeto JavaScript em uma string de URL codificada.
+-------------------------------------------------------------------------------------
+npm = npm é a abreviação de Node Package Manager. É um gerenciador de pacotes para o ecossistema JavaScript, 
+que permite que os desenvolvedores baixem e gerenciem bibliotecas e pacotes de terceiros usados em seus projetos 
+JavaScript, como dependências
+-------------------------------------------------------------------------------------
+Slugify = É comum usá-lo para gerar nomes de arquivos ou URLs amigáveis a partir de títulos de artigos, por exemplo.
+-------------------------------------------------------------------------------------
+Nodemon = utilitário Node.js que monitora alterações em arquivos no sistema de arquivos e automaticamente reinicia 
+o aplicativo quando alguma alteração é detectada.
+  -------------------------------------------------------------------------------------
+Events = EventEmitter permite a criação de um sistema de eventos personalizado. 
+Ele fornece uma interface para adicionar e remover eventos e listeners, e permite que vários listeners 
+sejam associados a um evento específico.
+-------------------------------------------------------------------------------------
+Line-by-line =  utilizada para ler arquivos de texto de maneira assíncrona, linha por linha. 
+Isso é útil quando você precisa ler um arquivo muito grande e não quer carregar todo o arquivo 
+de uma vez na memória. Ao invés disso, você pode ler o arquivo linha por linha e processar cada 
+linha conforme ela é lida, liberando a memória após o processamento.
+-------------------------------------------------------------------------------------
+ Morgan = é um middleware de registro de solicitações HTTP para Express, ele permite registrar 
+ informações sobre as solicitações feitas à sua aplicação, como o método HTTP, a URL e o status da resposta.
+ - "tiny" - Exibe apenas o método da solicitação, a URL e o status da resposta
+- "combined" - Exibe informações detalhadas sobre a solicitação, incluindo o método, a URL, o status da 
+resposta, o tempo de processamento e o tamanho da resposta
+- "common" - Exibe informações semelhantes à "combined", mas com menos detalhes
+- "dev" - Exibe informações detalhadas, incluindo o método, a URL, o status da resposta, o tempo de processamento, o 
+tamanho da resposta (em byte) e as informações de cabeçalho da solicitação
+
+/////////////////////
+
+"dependencies regulares" : Pacotes requeridos pelo seu aplicativo em produção. (ExpressJS, )
+
+"devDependencies" : Pacotes que são necessários apenas para desenvolvimento e teste local. (npm install {name} --save-dev) (nodemon, )
+
+-> para instalar um pacote globalmente utilize no terminal: npm install {name} --global
+-> para desinstalar um pacote: npm uninstall {name}
+
+*Atualização de pacote: npm outdated -> npm i name@versao
+
+//////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
