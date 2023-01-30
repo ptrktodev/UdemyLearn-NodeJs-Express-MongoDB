@@ -78,7 +78,7 @@ exports.UpdateTour = (req, res) => {
     res.json({status : 'success', data: { tour : '<Update here...>' }})
 
 }
-exports.Deleteour = (req, res) => {
+exports.DeleteTour = (req, res) => {
     
     res.json({status : 'success', data: null})
     res.status(204)
