@@ -2,8 +2,8 @@ const express = require('express')
 const app = express() // add a função 
 
 const morgan = require('morgan')// permite registrar informações sobre as solicitações feitas à sua aplicação
-const tourRouter = require('./Routes/tourRoutes.js')
-const userRouter = require('./Routes/userRoutes.js')
+const tourRouter = require('./routes/tourRoutes.js')
+const userRouter = require('./routes/userRoutes.js')
 
 // MIDDLEWARES -----------------------------
 

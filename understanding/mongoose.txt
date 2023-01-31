@@ -1,0 +1,3 @@
+Schema = Schema em Mongoose é um objeto que descreve o formato de um documento no MongoDB. 
+Ele define as propriedades (campos) e seus tipos, bem como validações e métodos personalizados 
+para o documento. 

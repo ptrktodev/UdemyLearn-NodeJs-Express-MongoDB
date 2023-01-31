@@ -56,9 +56,17 @@ tamanho da resposta (em byte) e as informações de cabeçalho da solicitação
 
 //////////////////
 
+A arquitetura MVC (Model-View-Controller) é um padrão de design de software que separa a aplicação em 
+três componentes principais: model, view e controller.
 
+-Model: representa os dados e a lógica de negócios da aplicação.
+-View: é a camada de apresentação, responsável por exibir os dados ao usuário.
+-Controller: controla a interação entre o model e a view, recebendo as ações do usuário e atualizando o model e a view conforme necessário.
 
+O objetivo da arquitetura MVC é fornecer uma separação clara das responsabilidades da aplicação, facilitando o 
+desenvolvimento, manutenção e escalabilidade da aplicação.
 
+//////////////////
 
 
 
